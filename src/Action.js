@@ -1,0 +1,2 @@
+export const INCREASE_DATA="INCREASE_DATA";
+export const DECREASE_DATA="DECREASE_DATA"; 
